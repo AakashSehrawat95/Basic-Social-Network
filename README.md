@@ -13,6 +13,7 @@ ___
 
 - Upon logging in the index page allows the users to create a new post, like posts and dislike previously liked posts.
 - All these processes do not require a reload of the page.
+<kbd>
   <img src="https://github.com/AakashSehrawat95/Basic-Social-Network/blob/master/documents/img2.jpg">
 </kbd>
 
