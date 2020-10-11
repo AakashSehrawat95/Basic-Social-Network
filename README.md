@@ -29,6 +29,7 @@ ___
 <kbd>
   <img src="https://github.com/AakashSehrawat95/Basic-Social-Network/blob/master/documents/img4.jpg">
 </kbd>
+
 ___
 ## Note
 The website was completed as a part of CS50 Web (2020) course.
